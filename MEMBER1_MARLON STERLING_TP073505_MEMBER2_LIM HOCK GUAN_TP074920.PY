@@ -4,3 +4,9 @@ import datetime
 import os
 
 now = datetime.datetime.now()
+
+
+
+
+if __name__ == "__main__":
+    main()

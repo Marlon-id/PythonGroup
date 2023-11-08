@@ -6,6 +6,8 @@ import os
 now = datetime.datetime.now()
 
 
+print("hello_world")
+
 jsdkasdlkaslkdjflkasdflkasdjf
 
 if __name__ == "__main__":
